@@ -4,7 +4,7 @@ personal update list product in my shop
 
 ## Sponsor
 
-* [Anonim](t.me/imam_sf)
+* [Anonim](https://t.me/imam_sf)
 * [Intagram](https://instagram.com/pmm_umm91)
 * [Youtube](https://youtube.com/channel/UCShlGVaP3Y4BUAxE56OChdg)
 
