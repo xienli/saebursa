@@ -2,9 +2,16 @@
 
 personal update list product in my shop
 
+## Team 
+
+* [Xienli](https://t.me/imam_sf)
+* [Choanya](https://github.com/nikoedyr)
+
 ## Sponsor
 
-* [Anonim](https://t.me/imam_sf)
+* [Netlify](https://www.netlify.com/)
+* [Eleventy](https://www.11ty.dev/)
+
 * [Intagram](https://instagram.com/pmm_umm91)
 * [Youtube](https://youtube.com/channel/UCShlGVaP3Y4BUAxE56OChdg)
 
