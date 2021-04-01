@@ -1,8 +1,0 @@
----
-items:
-  - text: Home
-    url: "/"
-  - text: Archive
-    url: "/posts"
-  - text: About Us
-    url: "/about"
