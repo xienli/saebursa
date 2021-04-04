@@ -1,0 +1,18 @@
+{
+  "title": "Sae Bursa Rotan",
+  "url": "https://saebursa.netlify.app/",
+  "language": "en",
+  "description": "Personal list some product",
+  "githubBranch": "master",
+  "enableSearch": true,
+  "enableContact": true,
+  "enableDarkMode": true,
+  "enableNetlifyCMS": true,
+  "enableEditButton": true,
+  "enableGithubLink": true,
+  "author": {
+    "name": "xienli",
+    "email": "ilmumochi@gmail.com",
+    "url": "https://saebursa.netlify.app/about-me/"
+  }
+}
