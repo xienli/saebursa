@@ -1,3 +1,4 @@
 [build]
   publish = "_site"
-  command = "ELEVENTY_PRODUCTION=true eleventy && NODE_ENV=production postcss styles/tailwind.css --o _site/style.css"
+  command = "npm run build"
+  commandOrigin = "config"
