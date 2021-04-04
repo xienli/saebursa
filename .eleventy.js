@@ -3,6 +3,7 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const Image = require("@11ty/eleventy-img");
 const svgContents = require("eleventy-plugin-svg-contents");
 const mdIterator = require('markdown-it-for-inline')
 const embedEverything = require("eleventy-plugin-embed-everything");
@@ -24,6 +25,33 @@ module.exports = function(eleventyConfig) {
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
+  eleventyConfig.addLiquidShortcode("image", async function(src, alt, sizes = "100vw") {
+    if(alt === undefined) {
+      // You bet we throw an error on missing alt (alt="" works okay)
+      throw new Error(`Missing \`alt\` on responsiveimage from: ${src}`);
+    }
+    src = './assets/img/contents'+src
+    let metadata = await Image(src, {
+      widths: [300, 600, null],
+      formats: ['webp', 'jpeg', 'png'],
+      urlPath: "./assets/img/contents",
+      outputDir: "./_site/assets/img/contents"
+    });
+
+    let lowsrc = metadata.jpeg[0];
+
+    return `<picture>
+      ${Object.values(metadata).map(imageFormat => {
+        return `  <source type="image/${imageFormat[0].format}" srcset="${imageFormat.map(entry => entry.srcset).join(", ")}" sizes="${sizes}">`;
+      }).join("\n")}
+        <img
+          src="${lowsrc.url}"
+          width="${lowsrc.width}"
+          height="${lowsrc.height}"
+          alt="${alt}">
+      </picture>`;
+  });
 
   // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
   // layout aliases! Say you have a bunch of existing content using

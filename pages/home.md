@@ -10,3 +10,5 @@ eleventyNavigation:
 ---
 
 <h1> Testing page </h1>
+
+<img src="/assets/img/contents/arin.jpg" alt="arin">
