@@ -1,7 +1,7 @@
 ---
 layout: layouts/contact.njk
-title: Send a message 
+title: Contact Us 
 section: contact
-date: 2020-11-20 
+date: 2021-04-05
 permalink: /contact/index.html
 ---

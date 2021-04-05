@@ -1,6 +1,6 @@
 ---
 title: Privacy settings 
-date: 2020-11-20
+date: 2021-04-05
 permalink: /privacy/index.html
 eleventyNavigation:
   key: Privacy settings

@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Sae Bursa Rotan
-date: 2020-11-20
+date: 2021-04-05
 permalink: /
 eleventyNavigation:
   key: Home
@@ -9,28 +9,14 @@ eleventyNavigation:
   order: 0
 ---
 
-<img src="/assets/img/contents/rebeka.jpg" alt="rebeka">
+<img src="/assets/img/contents/banner.jpg" alt="rebeka">
 
-List skill tree character :
+### Sae Bursa Rotan
 
-#    Hu/Fi Here
-#    Gu/Hu Here
-#    Ra/Hu Here
-#    Fo/Te Here
-#    Fi/Hu Here
-#    Hr Here
-#    Ph Here (Still not playable for me so i don't have)
+Sae Bursa Rotan adalah home industri yang bergerak di bidang produksi dan penjualan furniture rotan dan kerajinan rotan dari kota Malang, Jawa Timur, Indonesia. Kami memproduksi beberapa kerajinan dan furniture rotan yang berskala pada beberapa jenis,seperti keranjang,pot,dan beberapa produk lain. Sae bursa rotan selalu mengembangkan beberapa desain yang memiliki beberapa model dan kami juga menerima pesanan desain dari pemesan kami.
 
+Semua produk kami dikerjakan oleh pengrajin yang terampil,baik dari segi anyaman dan desain.demi kenyamanan untuk pembeli kami menawarkan produk yang menurut kami baik dalam segi desain dan bahan baku.dan yang terpenting harga dari produk kami terjangkau.
 
-Note : you have more spare skill point,you can take some other skill if you want.
-List affix ability pso2,easy 4slot affix
+Untuk proses pembelian dan informasi tentang produk kami silahkan hub kami baik melalui email atau langsung ke tempat pembuatan produk kami.
 
-#    120 R-Atk + 8pp Here
-#    100 S-Atk + 6pp Here
-#    150 S-Atk + 2pp Here
-#    155 R-Atk + 3pp Here (apprezina reverie)
-#    155 R-Atk + 4pp Here (persona reverie)
-#    95 R-Atk + 8pp Here
-#    155 Hp + 12pp  Here
-#    120 Hp + 9pp Here
-#    120 T-Atk + 10pp Here
+### Kunjungi halaman about me / contact untuk lebih lanjut tentang kontak kami.

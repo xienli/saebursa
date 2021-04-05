@@ -1,9 +1,9 @@
 ---
-title: Credits 
-date: 2020-11-20
+title: Sponsor 
+date: 2021-04-05
 permalink: /credits/index.html
 eleventyNavigation:
   order: 100 
-  key: Credits
-  title: Credits
+  key: sponsor
+  title: Sponsor
 ---
