@@ -1,11 +1,13 @@
 ---
-title: Privacy settings 
+title: Privacy 
 date: 2021-04-05
 permalink: /privacy/index.html
 eleventyNavigation:
-  key: Privacy settings
+  key: Privacy
   order: 70 
 ---
+
+### Under Development
 
 ## Make your site searchable
 
