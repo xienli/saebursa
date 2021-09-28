@@ -57,7 +57,7 @@
     "qs": "^6.9.4",
     "quicklink": "^2.0.0",
     "remove": "^0.1.5",
-    "uglify-es": "^3.3.9",
+    "uglify-es": "^3.13.0",
     "url-pattern": "^1.0.3"
   },
   "main": ".eleventy.js"
