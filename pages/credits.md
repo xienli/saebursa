@@ -10,12 +10,7 @@ eleventyNavigation:
 
 # Bio
 
-I'm an Android Developer who focus on application performance and user experience.
-For now, I use Java as my language-of-choice for building my apps. But also I learn about web development, especially JavaScript recently and sometimes I learn a bit about C for my building kernel devices.
-
-I also love enhancing my devices performance by hacking the linux kernel, and tweaking some software configurations.
-
-When I’m not on the text editor, I enjoy playing video games, shopping, watchi
+I'm an Android Developer who focus on application performance and user experience.For now, I use Java as my language-of-choice for building my apps. But also I learn about web development, especially JavaScript recently and sometimes I learn a bit about C for my building kernel devices.I also love enhancing my devices performance by hacking the linux kernel, and tweaking some software configurations.When I’m not on the text editor, I enjoy playing video games, shopping, and other think
 
 # Skill
 
@@ -43,7 +38,7 @@ you can consider buying me a coffee (or chocolate), Thank you!
 
 # Get In Touch
 
-Imam Safi'i 
+Imam Safi'i
 Android and Web Developer
 imamsafi220@gmail.com
 
