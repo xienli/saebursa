@@ -8,7 +8,7 @@ eleventyNavigation:
   title: About Me
 ---
 
-#Bio
+# Bio
 
 I'm an Android Developer who focus on application performance and user experience.
 For now, I use Java as my language-of-choice for building my apps. But also I learn about web development, especially JavaScript recently and sometimes I learn a bit about C for my building kernel devices.
@@ -25,15 +25,13 @@ When I’m not on the text editor, I enjoy playing video games, shopping, watchi
 
 {% progressBar "CSS/HTML", "55%" %}
 
-{% progressBar "Gaming :)", "90%" %}
-
 {% progressBar "JavaScript", "30%" %}
 
 {% progressBar "Linux", "80%" %}
 
-{% progressBar "Kotlin", "45%" %}
-
 {% progressBar "Java", "60%" %}
+
+{% progressBar "PHP", "45%" %}
 
 # Donate
 
